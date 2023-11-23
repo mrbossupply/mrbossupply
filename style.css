@@ -118,6 +118,14 @@ i {
   max-width: 940px;
   font-size: 46px;
 }
+
+.hero h1 span{
+  text-align: center;
+  line-height: 150%;
+  max-width: 940px;
+  font-size: 65px;
+  color: yellow;
+}
 .hero p {
   text-align: center;
   margin: 14px 0;
